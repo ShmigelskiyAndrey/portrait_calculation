@@ -1,10 +1,10 @@
 import './App.css';
-import { CompositeCalender } from './components/composite/compositeCalender';
+import { Composite } from './components/composite/composite';
 
 function App() {
   return (
     <div className="App">
-      <CompositeCalender></CompositeCalender>
+      <Composite></Composite>
     </div>
   );
 }
